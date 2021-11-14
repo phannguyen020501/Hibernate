@@ -1,0 +1,1 @@
+package com.pn.hibernatedemo.entities;
